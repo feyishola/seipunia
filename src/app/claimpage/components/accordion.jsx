@@ -41,7 +41,7 @@ const Accordion = () => {
         </label>
         {sections.accordion1 && (
           <div className="p-4 bg-white rounded shadow-md">
-            <p>Hello, this is the content of the first section.</p>
+            <p>I love my Darasimi.</p>
           </div>
         )}
       </div>
