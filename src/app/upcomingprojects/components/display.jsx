@@ -58,7 +58,7 @@ function EndPage(){
 function LivePage(){
     return(
         <div className="text-center mx-auto -mt-1 w-full md:min-w-[20%] md:max-w-[40%] p-2">
-              <TextBox message={"No live page available. Contact Shams Khalil."} style={{color:"#E5335E", maxHeight:"100%", maxWidth:"100%", fontFamily: "Poppins",fontSize: "32px", fontWeight: 400,lineHeight: "48px", }}/>
+              <TextBox message={"No live page available. Contact Feyishola"} style={{color:"#E5335E", maxHeight:"100%", maxWidth:"100%", fontFamily: "Poppins",fontSize: "32px", fontWeight: 400,lineHeight: "48px", }}/>
         </div>
     )
 }
